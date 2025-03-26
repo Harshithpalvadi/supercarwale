@@ -12,9 +12,6 @@ This project is a web-based car rental service platform that allows users to bro
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (To be integrated, e.g., Node.js, Django, or Firebase)
-- **Database**: (To be integrated, e.g., MySQL, MongoDB, or Firebase Firestore)
-- **Payment Gateway**: (To be integrated, e.g., Stripe, Razorpay, PayPal)
 
 ## Setup Instructions
 1. Clone the repository:
